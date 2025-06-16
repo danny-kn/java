@@ -72,6 +72,67 @@ This repository contains 10 comprehensive Java projects demonstrating fundamenta
 - Similar functionality to Project #9 with different implementation approach.
 - Enhanced error handling for file operations.
 
+### HomePage
+**Purpose**: Personal homepage with portfolio and contact information.
+- HTML-based static website.
+- CSS styling with responsive design.
+- Portfolio showcase with project demonstrations.
+
+### NaturalNumberCalculator
+**Purpose**: GUI-based calculator for natural number operations.
+- Model-View-Controller architecture implementation.
+- Interactive calculator interface for natural number computations.
+- Demonstrates event-driven programming principles.
+
+### NaturalNumberRoot
+**Purpose**: Computes natural number roots using Newton's method.
+- Iterative root-finding algorithm implementation.
+- Precision-controlled computation for natural numbers.
+- Mathematical algorithm demonstration.
+
+### Newton
+**Purpose**: Implementation of Newton's method for various mathematical computations.
+- Multiple versions demonstrating iterative improvement.
+- Root-finding and optimization algorithms.
+- Numerical method implementations with error analysis.
+
+### Pseudoscience
+**Purpose**: Mathematical constant approximation using de Jager's formula.
+- ABCD guesser implementations for mathematical constants.
+- Demonstrates computational approximation techniques.
+- Statistical analysis of approximation accuracy.
+
+### RSSAggregator
+**Purpose**: RSS feed aggregator that processes and displays news feeds from multiple sources.
+- Aggregates RSS feeds from various news sources (New York Times, Yahoo News, Ars Technica, NASA, OSU, Packet Storm).
+- XML parsing for RSS feed processing with robust error handling.
+- HTML generation for aggregated content display with styled output.
+- Creates organized index pages with feed summaries and article links.
+- Demonstrates web scraping, XML processing, and content aggregation techniques.
+- Includes sample feeds and generated HTML output files.
+
+#### Sample RSS Aggregator Outputs
+![RSS Aggregator Output 1](RSSAggregator/img_01.png)
+![RSS Aggregator Output 2](RSSAggregator/img_02.png)
+
+### RSSReader
+**Purpose**: RSS feed reader with XML processing capabilities.
+- Parses RSS feeds from various news sources.
+- Converts XML data to structured HTML output.
+- Demonstrates XML processing and web content handling.
+
+### StringReassemblyFromFragments
+**Purpose**: Reconstructs original strings from overlapping fragments.
+- String processing and pattern matching algorithms.
+- Fragment overlap detection and assembly.
+- Demonstrates greedy algorithm applications.
+
+### XMLTreeExpressionEvaluator
+**Purpose**: Evaluates mathematical expressions stored in XML format.
+- XML tree parsing and traversal.
+- Mathematical expression evaluation.
+- Supports both integer and natural number expressions.
+
 ## Technical Highlights
 
 ### Data Structures Implemented
